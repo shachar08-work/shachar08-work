@@ -2,7 +2,7 @@
 <img align="right" alt="Coding" width="420" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
-* 🎓 I'm a Computer Science student (graduating in July 2023)
+* 🎓 I'm a Computer Science Graduate
 * 🎨 I'm a self-taught, continuously searching for greater challenges
 * 🌐 You can see some of my projects [here][projects]
 
@@ -18,10 +18,10 @@
 <br />
 
 
-[website]: https://github.com/shachar08
+[website]: https://github.com/shachar08-work
 [linkedin]: https://www.linkedin.com/in/shachar-korall-75277b215
 [gmail]: "mailto:shachar08@gmail.com"
-[projects]: https://github.com/shachar08?tab=repositories
+[projects]: https://github.com/shachar08-work?tab=repositories
 
 
 
